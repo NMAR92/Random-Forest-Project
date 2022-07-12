@@ -1,1 +1,2 @@
-# Template for Machine Learning projects
+# Template for Random Forest
+Se trabaja sobre el dataset del Titanic, el cual se realiza la prediccion de supervivencia con el algoritmo de Random Tree y su optimización de hiperpárametros, se logra un accuarcy de 85%.
