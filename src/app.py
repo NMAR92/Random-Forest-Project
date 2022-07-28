@@ -51,3 +51,6 @@ classif_grid_random.fit(X_train,y_train)
 final_model = '../models/final_model.sav'
 pickle.dump =(classif_grid_random, open(final_model, 'wb'))
 
+
+
+
